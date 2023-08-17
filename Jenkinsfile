@@ -9,7 +9,6 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch:'master', url:'https://github.com/Ashhar909/Pipeline-basics.git'
-		`
             }
         }
         
