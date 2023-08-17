@@ -21,11 +21,5 @@ pipeline {
             }
         }
     }
-    
-    post {
-        always {
-            // Clean up or perform other actions if needed
-        }
-    }
 }
 
