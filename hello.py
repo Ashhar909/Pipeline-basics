@@ -1,4 +1,4 @@
 print('hello world!!')
 
-for letter in "Ashhar":
-	print(letter)
+for letter in "Ashhar k":
+	print(letter,end='')
